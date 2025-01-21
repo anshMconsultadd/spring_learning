@@ -10,6 +10,6 @@
     <context:component-scan base-package="org.example" />
 
     <!-- Example bean (for illustration) -->
-    <!-- <bean id="vehicle" class="org.example.Bike"/> -->
+     <bean id="vehicle" class="org.example.Bike"/>
 
 </beans>
